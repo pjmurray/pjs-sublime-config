@@ -1,0 +1,48 @@
+{
+	"added_words":
+	[
+		"Github",
+		"Skype"
+	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"dashboard/public/**",
+		"frontend/compiled/**",
+		"log/**",
+		"node_modules/**",
+		"pro-central/dist/**",
+		"results/coverage/**",
+		"tmp/**",
+		"tmp/**/**"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Vintage"
+	],
+	"open_tab_limit": 2,
+	"scroll_past_end": false,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
